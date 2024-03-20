@@ -1,5 +1,9 @@
 # Projeto NLW Discover
 
+<p align="center">
+  <img src="[https://example.com/logo.png](https://github.com/Caio-Ruiz-Romanato/Projeto-NLW-Discover/blob/main/public/images/logo.svg)" alt="Logo-Site">
+</p>
+
 Este projeto foi realizado como parte do evento Next Level Week (NLW) Discover, com o objetivo de praticar conhecimentos em HTML, CSS, JavaScript e banco de dados.
 
 ## ℹ️ Sobre o Projeto
@@ -18,10 +22,12 @@ O Projeto NLW Discover consiste em uma página web com funcionalidades para:
 
 ## 🚀 Tecnologias Utilizadas
 
-- HTML
-- CSS
-- JavaScript
-- Banco de Dados MySQL
+<p align="center">
+  <img src="https://example.com/html_icon.png" alt="HTML Icon" width="50">
+  <img src="https://example.com/css_icon.png" alt="CSS Icon" width="50">
+  <img src="https://example.com/javascript_icon.png" alt="JavaScript Icon" width="50">
+  <img src="https://example.com/database_icon.png" alt="Database Icon" width="50">
+</p>
 
 ## 🤝 Contribuição
 
