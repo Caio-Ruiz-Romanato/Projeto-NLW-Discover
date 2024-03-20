@@ -1,7 +1,5 @@
 # Projeto NLW Discover
 
-![NLW Discover]([https://example.com/logo.png](https://www.rocketseat.com.br/discover)
-
 Este projeto foi realizado como parte do evento Next Level Week (NLW) Discover, com o objetivo de praticar conhecimentos em HTML, CSS, JavaScript e banco de dados.
 
 ## ℹ️ Sobre o Projeto
