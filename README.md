@@ -21,7 +21,7 @@ O Projeto NLW Discover consiste em uma página web com funcionalidades para:
 - HTML
 - CSS
 - JavaScript
-- Banco de Dados (insira aqui o banco de dados utilizado)
+- Banco de Dados MySQL
 
 ## 🤝 Contribuição
 
