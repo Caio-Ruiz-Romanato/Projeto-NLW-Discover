@@ -1,7 +1,7 @@
 # Projeto NLW Discover
 
 <p align="center">
-  <img src="[https://example.com/logo.png](https://github.com/Caio-Ruiz-Romanato/Projeto-NLW-Discover/blob/main/public/images/logo.svg)" alt="Logo-Site">
+  <img src="(https://github.com/Caio-Ruiz-Romanato/Projeto-NLW-Discover/blob/main/public/images/logo.svg)" alt="Logo-Site">
 </p>
 
 Este projeto foi realizado como parte do evento Next Level Week (NLW) Discover, com o objetivo de praticar conhecimentos em HTML, CSS, JavaScript e banco de dados.
