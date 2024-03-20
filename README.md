@@ -23,10 +23,10 @@ O Projeto NLW Discover consiste em uma página web com funcionalidades para:
 ## 🚀 Tecnologias Utilizadas
 
 <p align="center">
-  <img src="https://example.com/html_icon.png" alt="HTML Icon" width="50">
-  <img src="https://example.com/css_icon.png" alt="CSS Icon" width="50">
-  <img src="https://example.com/javascript_icon.png" alt="JavaScript Icon" width="50">
-  <img src="https://example.com/database_icon.png" alt="Database Icon" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML Icon" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS Icon" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Database Icon" width="50">
 </p>
 
 ## 🤝 Contribuição
